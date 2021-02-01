@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_activity">Weather</string>
+    <string name="fail_activity">No city found.</string>
+    <string name="help_text">Enter city name</string>
+    <string name="fail_text">No city found.</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="feels_like">Feels like</string>
+    <string name="button_go">Go</string>
+    <string name="city_placeholder">Los Angeles, CA</string>
+    <string name="desc_placeholder">Feels like LA</string>
+    <string name="temp_placeholder">0F</string>
+    <string name="json_key">json_key</string>
+</resources>
