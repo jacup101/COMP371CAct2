@@ -1,1 +1,1 @@
-# COMP371CAct2
+# Class Activity 2
