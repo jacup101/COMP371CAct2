@@ -10,10 +10,11 @@
         android:id="@+id/cityInput"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="256dp"
+        android:autoText="false"
         android:ems="10"
         android:hint="@string/help_text"
         android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/buttonGo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
